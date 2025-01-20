@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+}
+
+#controls {
+  margin: 20px;
+}
+
+#visualization {
+  margin: 0 auto;
+  width: 80%;
+  height: 600px;
+  border: 1px solid #ccc;
+  position: relative;
+}
